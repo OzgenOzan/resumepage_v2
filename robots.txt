@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://pharmozgen.me/resumepage_v2//sitemap.xml
+User-agent: * Disallow: Sitemap: https://pharmozgen.me/sitemap.xml
