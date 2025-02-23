@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://ozgenozan.github.io/resumepage_v2//sitemap.xml
+User-agent: * Disallow: Sitemap: https://ozgenozan.github.io/sitemap.xml
