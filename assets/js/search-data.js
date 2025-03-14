@@ -7,56 +7,56 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/resumepage_v2/";
+      window.location.href = "/";
     },
   },{id: "nav-projects",
           title: "Projects",
           description: "Research and development initiatives in pharmaceutical sciences",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/resumepage_v2/projects/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-publications",
           title: "publications",
           description: "Research publications and academic contributions in pharmaceutical science, biotechnology, and clinical research.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/resumepage_v2/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-blog",
           title: "Blog",
           description: "Insights on pharmaceutical research, clinical trials, and healthcare innovation",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/resumepage_v2/blog/";
+            window.location.href = "/blog/";
           },
         },{id: "nav-cv",
           title: "cv",
           description: "Clinical Research Professional with expertise in pharmaceutical development and bioequivalence studies.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/resumepage_v2/resumepage/";
+            window.location.href = "/resumepage/";
           },
         },{id: "nav-repositories",
           title: "repositories",
           description: "Coding projects and open source contributions",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/resumepage_v2/repositories/";
+            window.location.href = "/repositories/";
           },
         },{id: "nav-expertise",
           title: "expertise",
           description: "Professional development",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/resumepage_v2/expertise/";
+            window.location.href = "/expertise/";
           },
         },{id: "nav-collaborators",
           title: "collaborators",
           description: "Professional connections and collaborators in pharmaceutical research and development",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/resumepage_v2/people/";
+            window.location.href = "/people/";
           },
         },{id: "dropdown-expertise",
               title: "expertise",
@@ -91,7 +91,7 @@ ninja.data = [{
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/resumepage_v2/blog/";
+                window.location.href = "/blog/";
               },
             },{id: "post-a-post-with-image-galleries",
       
@@ -101,7 +101,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/resumepage_v2/blog/2024/photo-gallery/";
+          window.location.href = "/blog/2024/photo-gallery/";
         
       },
     },{id: "post-machine-learning-applications-in-modern-drug-discovery",
@@ -112,7 +112,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/resumepage_v2/blog/2024/machine-learning-drug-discovery/";
+          window.location.href = "/blog/2024/machine-learning-drug-discovery/";
         
       },
     },{id: "post-understanding-bioequivalence-studies-in-generic-drug-development",
@@ -123,7 +123,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/resumepage_v2/blog/2024/bioequivalence-studies/";
+          window.location.href = "/blog/2024/bioequivalence-studies/";
         
       },
     },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
@@ -145,7 +145,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/resumepage_v2/blog/2024/tabs/";
+          window.location.href = "/blog/2024/tabs/";
         
       },
     },{id: "post-a-post-with-typograms",
@@ -156,7 +156,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/resumepage_v2/blog/2024/typograms/";
+          window.location.href = "/blog/2024/typograms/";
         
       },
     },{id: "post-a-post-that-can-be-cited",
@@ -167,7 +167,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/resumepage_v2/blog/2024/post-citation/";
+          window.location.href = "/blog/2024/post-citation/";
         
       },
     },{id: "post-a-post-with-pseudo-code",
@@ -178,7 +178,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/resumepage_v2/blog/2024/pseudocode/";
+          window.location.href = "/blog/2024/pseudocode/";
         
       },
     },{id: "post-a-post-with-code-diff",
@@ -189,7 +189,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/resumepage_v2/blog/2024/code-diff/";
+          window.location.href = "/blog/2024/code-diff/";
         
       },
     },{id: "post-a-post-with-advanced-image-components",
@@ -200,7 +200,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/resumepage_v2/blog/2024/advanced-images/";
+          window.location.href = "/blog/2024/advanced-images/";
         
       },
     },{id: "post-a-post-with-vega-lite",
@@ -211,7 +211,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/resumepage_v2/blog/2024/vega-lite/";
+          window.location.href = "/blog/2024/vega-lite/";
         
       },
     },{id: "post-a-post-with-geojson",
@@ -222,7 +222,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/resumepage_v2/blog/2024/geojson-map/";
+          window.location.href = "/blog/2024/geojson-map/";
         
       },
     },{id: "post-a-post-with-echarts",
@@ -233,7 +233,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/resumepage_v2/blog/2024/echarts/";
+          window.location.href = "/blog/2024/echarts/";
         
       },
     },{id: "post-a-post-with-chart-js",
@@ -244,7 +244,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/resumepage_v2/blog/2024/chartjs/";
+          window.location.href = "/blog/2024/chartjs/";
         
       },
     },{id: "post-machine-learning-in-drug-discovery",
@@ -255,7 +255,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/resumepage_v2/blog/2023/distill/";
+          window.location.href = "/blog/2023/distill/";
         
       },
     },{id: "post-a-post-with-tikzjax",
@@ -266,7 +266,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/resumepage_v2/blog/2023/tikzjax/";
+          window.location.href = "/blog/2023/tikzjax/";
         
       },
     },{id: "post-adding-references-to-blog-posts",
@@ -277,7 +277,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/resumepage_v2/blog/2023/post-bibliography/";
+          window.location.href = "/blog/2023/post-bibliography/";
         
       },
     },{id: "post-a-post-with-jupyter-notebook",
@@ -288,7 +288,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/resumepage_v2/blog/2023/jupyter-notebook/";
+          window.location.href = "/blog/2023/jupyter-notebook/";
         
       },
     },{id: "post-a-post-with-custom-blockquotes",
@@ -299,7 +299,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/resumepage_v2/blog/2023/custom-blockquotes/";
+          window.location.href = "/blog/2023/custom-blockquotes/";
         
       },
     },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
@@ -310,7 +310,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/resumepage_v2/blog/2023/sidebar-table-of-contents/";
+          window.location.href = "/blog/2023/sidebar-table-of-contents/";
         
       },
     },{id: "post-a-post-with-audios",
@@ -321,7 +321,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/resumepage_v2/blog/2023/audios/";
+          window.location.href = "/blog/2023/audios/";
         
       },
     },{id: "post-a-post-with-videos",
@@ -332,7 +332,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/resumepage_v2/blog/2023/videos/";
+          window.location.href = "/blog/2023/videos/";
         
       },
     },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
@@ -343,7 +343,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/resumepage_v2/blog/2023/tables/";
+          window.location.href = "/blog/2023/tables/";
         
       },
     },{id: "post-a-post-with-table-of-contents",
@@ -354,7 +354,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/resumepage_v2/blog/2023/table-of-contents/";
+          window.location.href = "/blog/2023/table-of-contents/";
         
       },
     },{id: "post-a-post-with-giscus-comments",
@@ -365,7 +365,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/resumepage_v2/blog/2022/giscus-comments/";
+          window.location.href = "/blog/2022/giscus-comments/";
         
       },
     },{id: "post-displaying-external-posts-on-your-al-folio-blog",
@@ -387,7 +387,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/resumepage_v2/assets/pdf/example_pdf.pdf";
+          window.location.href = "/assets/pdf/example_pdf.pdf";
         
       },
     },{id: "post-a-post-with-diagrams",
@@ -398,7 +398,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/resumepage_v2/blog/2021/diagrams/";
+          window.location.href = "/blog/2021/diagrams/";
         
       },
     },{id: "post-a-post-with-twitter",
@@ -409,7 +409,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/resumepage_v2/blog/2020/twitter/";
+          window.location.href = "/blog/2020/twitter/";
         
       },
     },{id: "post-a-post-with-disqus-comments",
@@ -420,7 +420,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/resumepage_v2/blog/2015/disqus-comments/";
+          window.location.href = "/blog/2015/disqus-comments/";
         
       },
     },{id: "post-a-post-with-math",
@@ -431,7 +431,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/resumepage_v2/blog/2015/math/";
+          window.location.href = "/blog/2015/math/";
         
       },
     },{id: "post-a-post-with-code",
@@ -442,7 +442,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/resumepage_v2/blog/2015/code/";
+          window.location.href = "/blog/2015/code/";
         
       },
     },{id: "post-a-post-with-images",
@@ -453,7 +453,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/resumepage_v2/blog/2015/images/";
+          window.location.href = "/blog/2015/images/";
         
       },
     },{id: "post-a-post-with-formatting-and-links",
@@ -464,7 +464,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/resumepage_v2/blog/2015/formatting-and-links/";
+          window.location.href = "/blog/2015/formatting-and-links/";
         
       },
     },{id: "news-continuing-phd-research-in-gene-and-cell-therapy-at-akdeniz-university-focusing-on-novel-therapeutic-approaches",
@@ -480,57 +480,57 @@ ninja.data = [{
           title: 'Your Project Title',
           description: "A description of your project",
           section: "Projects",handler: () => {
-              window.location.href = "/resumepage_v2/projects/1_project/";
+              window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/resumepage_v2/projects/2_project/";
+              window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
-              window.location.href = "/resumepage_v2/projects/3_project/";
+              window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
           section: "Projects",handler: () => {
-              window.location.href = "/resumepage_v2/projects/4_project/";
+              window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
           section: "Projects",handler: () => {
-              window.location.href = "/resumepage_v2/projects/5_project/";
+              window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
           section: "Projects",handler: () => {
-              window.location.href = "/resumepage_v2/projects/6_project/";
+              window.location.href = "/projects/6_project/";
             },},{id: "projects-project-title",
           title: 'Project Title',
           description: "A template for your research projects",
           section: "Projects",handler: () => {
-              window.location.href = "/resumepage_v2/projects/7_project/";
+              window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
           title: 'project 8',
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/resumepage_v2/projects/8_project/";
+              window.location.href = "/projects/8_project/";
             },},{id: "projects-project-9",
           title: 'project 9',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
-              window.location.href = "/resumepage_v2/projects/9_project/";
+              window.location.href = "/projects/9_project/";
             },},{id: "projects-machine-learning-for-anticancer-peptides",
           title: 'Machine Learning for Anticancer Peptides',
           description: "A machine learning model developed for determining anticancer activity of peptides",
           section: "Projects",handler: () => {
-              window.location.href = "/resumepage_v2/projects/anticancer_peptide_ml/";
+              window.location.href = "/projects/anticancer_peptide_ml/";
             },},{id: "projects-clinical-research-automation",
           title: 'Clinical Research Automation',
           description: "Digital solutions for tracking study timelines and regulatory applications",
           section: "Projects",handler: () => {
-              window.location.href = "/resumepage_v2/projects/automation_digitalization/";
+              window.location.href = "/projects/automation_digitalization/";
             },},{
         id: 'social-email',
         title: 'email',
@@ -564,7 +564,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/resumepage_v2//feed.xml", "_blank");
+          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-work',
