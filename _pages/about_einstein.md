@@ -1,5 +1,33 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+---
+layout: about
+title: about
+permalink: /
+subtitle: Clinical Research Specialist - Ars longa, vita brevis.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false
+  more_info: >
+    <p>Ümraniye, Istanbul</p>
+    <p>Turkiye, 34764</p>
+    <p>ozan_ozgen@outlook.com</p>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+news: false
+latest_posts: false
+selected_papers: true
+social: true
+---
+
+Experienced clinical research professional with expertise in BE/BA studies, clinical trials, and regulatory compliance. Strong skills in stakeholder management, contract negotiation, and portfolio oversight. Leverages data science and programming to drive innovative solutions in pharmaceutical research.
+
+Currently working as a Clinical Research Specialist at Nobel İlaç, managing preclinical and clinical activities while ensuring strict compliance with R&D timelines and product launches. My work involves overseeing regulatory submissions across 50+ countries and coordinating with CROs across Europe, USA, and India.
+
+I hold an MSc in Medical Biotechnology from Akdeniz University, where I developed machine learning models for predicting anticancer properties of peptides. Currently pursuing a PhD in Gene and Cell Therapy, focusing on advanced therapeutic applications.
+
+My research interests include:
+
+- Clinical Development of Advanced Therapeutics
+- Bioinformatics and Machine Learning in Drug Discovery
+- Technology Transfer (Preclinical & Clinical)
+- International Regulatory Guidelines

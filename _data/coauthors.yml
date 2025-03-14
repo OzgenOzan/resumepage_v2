@@ -32,3 +32,8 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+# Add your coauthors here if needed.
+# Example format:
+# "lastname":
+#   - firstname: ["Full Name", "N."]
+#     url: https://example.com

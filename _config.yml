@@ -6,16 +6,15 @@ title: Ozan # the website title (if blank, full name will be used instead)
 first_name: Ahmet Ozan
 middle_name:
 last_name: Özgen
-contact_note: >
-
+# contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Ahmet Ozan Özgen | Clinical Research Specialist and Pharmaceutical Researcher
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: pharmacist, ahmet ozan özgen, clinical research, machine learning, pharmaceutical research, bioequivalence studies, medical biotechnology
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 💊 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 url: https://ozgenozan.github.io # the base hostname & protocol for your site
 baseurl: /resumepage_v2/ # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
@@ -85,8 +84,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Pharma Research Notes # blog_name will be displayed in your blog page
+blog_description: Insights on pharmaceutical research, clinical studies, and healthcare innovation
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -185,7 +184,7 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
+  - _pages/about.md
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -255,8 +254,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+display_tags: ["clinical-research", "machine-learning", "pharmaceuticals", "bioequivalence", "drug-development", "regulatory-affairs"] # these tags will be displayed on the front page of your blog
+display_categories: ["research", "innovation", "technology"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
