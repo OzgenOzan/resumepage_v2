@@ -195,6 +195,15 @@ ul.timeline li::before {
   top: -0.5rem;
 }
 
+.list-group-table {
+  width: 100%;
+}
+
+.list-group-date {
+  text-align: end;
+  white-space: nowrap;
+}
+
 /*ul.timeline::before {
      content: "●";
      font-size: 1em;

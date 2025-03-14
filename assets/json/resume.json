@@ -27,7 +27,7 @@
       "name": "Nobel İlaç",
       "position": "Clinical Research Specialist",
       "url": "https://www.nobel.com.tr/",
-      "startDate": "Apr. 2023",
+      "startDate": "2023/04",
       "endDate": "Current",
       "summary": [
         "Nobel, as a pharmaceutical company, operates with five manufacturing facilities, three in Turkiye and one in Kazakhstan and Uzbekistan, while carrying out promotion and sales activities with its organizations in 20 countries, and through distributors in 30 countries. In my role, I contribute to preclinical and clinical activities, ensuring strict compliance with R&D timelines and product launches. Additionally, I manage responses to regulatory queries and deficiencies for regulatory submissions in over 50 countries. Key achievements include:<br>",
@@ -45,8 +45,8 @@
       "name": "Biocalis",
       "position": "Business Development Executive",
       "url": "https://www.biocalis.com/",
-      "startDate": "June 2020",
-      "endDate": "Apr. 2023",
+      "startDate": "2020/06",
+      "endDate": "2023/04",
       "summary": [
         "Biocalis is a healthcare company specializing in in-vitro diagnostics, medical devices and pharmaceuticals and leverages a wide distribution network spanning over 25 countries. In my role, I collaborated with an international team and managed accounts in EMEA and Central Asia, coordinating the eﬀorts of our oﬃces in Albania, Azerbaijan, Uzbekistan, and Russia while reporting directly to the managing director. I utilized HubSpot CRM and Excel to analyze performance metrics and track account activities. Key contributions include:<br>",
         "- Conducted market research for a partner (in-vitro diagnostics) to identify potential biomarkers of interest to CDMOs CROs, and other research organizations, followed by lead generation through Springer's AdisInsight subscription.<br>",
@@ -60,8 +60,8 @@
     {
       "name": "Avaroğlu Pharmacy",
       "position": "Retail Pharmacist",
-      "startDate": "Aug. 2019",
-      "endDate": "June 2020",
+      "startDate": "2019/08",
+      "endDate": "2020/06",
       "summary": [
         "I was responsible for coordinating safe and effective medication therapy for patients. Also, I had to adapt the everyday routine of the personnel to conditions caused by the COVID-19 pandemic."
       ],
@@ -74,8 +74,8 @@
       "location": "Istanbul, Turkiye",
       "position": "Youth Assembly and Assistant Pharmacists Commission Member",
       "url": "https://www.istanbuleczaciodasi.org.tr/",
-      "startDate": "Oct. 2019",
-      "endDate": "Aug. 2023",
+      "startDate": "2019/10",
+      "endDate": "2023/08",
       "summary": "Our projects focused on the sustainable development goals of the UN and their adaptation to pharmacists in general. I have also volunteered for a week in one of the field pharmacies (Antakya, Turkiye) after the 6 February 2023 earthquakes.",
       "highlights": ["NGO", "Pharmacy Disaster Management"]
     },
@@ -84,8 +84,8 @@
       "location": "Istanbul, Turkiye",
       "position": "Youth Delegate",
       "url": "http://ieogm.org/",
-      "startDate": "Oct. 2017",
-      "endDate": "Oct. 2019",
+      "startDate": "2017/10",
+      "endDate": "2019/10",
       "summary": "Youth Delegate IEO Youth Assembly is an autonomous structure where pharmacy students and pharmacists take place and produce together. I had been selected as a delegate in an election that took place in my faculty. I represented my faculty for 2 years and served in many projects. We have organized the first (2018) and the second (2019) pharmacist youth meetings.",
       "highlights": ["Event Coordination"]
     }
@@ -126,14 +126,14 @@
   "awards": [
     {
       "title": "Honor Reward",
-      "date": "May 2023",
+      "date": "2023/05",
       "awarder": "Istanbul Chamber of Pharmacists",
       "url": "https://www.pharmetic.org/istanbul-eczaci-odasi-2023-yili-meslek-ici-onur-odulleri",
       "summary": "I have been awarded for my volunteer work in a field pharmacy after the 6 February 2023 earthquakes."
     },
     {
       "title": "Local Competition Winner",
-      "date": "July 2022",
+      "date": "2022/07",
       "awarder": "Seeds for the Future (ICT Talent) - Huawei",
       "url": "https://www.huawei.com/en/news/2022/12/european-talent-summit",
       "summary": "As part of Huawei's global Corporate Social Responsibility flagship program; I have been selected for the program in 2022 after several interviews. I have led a team of 10, and we have developed and presented an AI-driven solution to prevent violence toward healthcare workers. We have won the Turkish part in the global competition and participated in the talent summit held in Athens."
@@ -144,80 +144,155 @@
       "name": "GCP Training",
       "date": "2023",
       "issuer": "Turkish Clinical Research Association",
-      "url": "/assets/img/gcp-training_2023.png",
-      "icon": "fa-solid fa-location-dot"
+      "url": "",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "QPPV Training",
+      "date": "2024",
+      "issuer": "TITCK",
+      "url": "",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Internal Auditor (ISO 9001:2015)",
+      "date": "2024",
+      "issuer": "İstanbul Kalite Danışmanlığı",
+      "url": "",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Adaptive Designs in Clinical Trials",
+      "date": "2024",
+      "issuer": "Turkish Clinical Research Association",
+      "url": "",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Medical Device Clinical Trials",
+      "date": "2024",
+      "issuer": "Turkish Clinical Research Association",
+      "url": "",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "McKinsey Forward Program",
+      "date": "2024",
+      "issuer": "McKinsey Academy",
+      "url": "",
       "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "name": "8-week Pharmaceutical Industry Education Program",
+      "date": "2024",
+      "issuer": "MUEF & TISD",
+      "url": "",
+      "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "R Programming A-Z™: R For Data Science With Real Exercises!",
+      "date": "2021",
+      "issuer": "Udemy",
+      "url": "",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Git a Web Developer Job: Mastering the Modern Workflow",
+      "date": "2022",
+      "issuer": "Udemy",
+      "url": "",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Business Development & B2B Sales for Startups - Sales Valley",
+      "date": "2022",
+      "issuer": "Udemy",
+      "url": "",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Current Approaches in Bioengineering",
+      "date": "2021",
+      "issuer": "Ege University",
+      "url": "",
+      "icon": "fa-solid fa-hashtag"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "In Silico Investigation of Anticancer Properties of Antimicrobial Peptides",
+      "publisher": "CoHE (Dissertation)",
+      "releaseDate": "2024",
+      "summary": "A machine learning model—specifically a random forest using amino acid and dipeptide features—was developed to predict anticancer activity in 10,000 antimicrobial peptides (AMPs). The model showed 79.5% accuracy on its validation set, and 1648 peptides demonstrated favorable anticancer properties. Additional analyses included clustering, physicochemical property predictions, and 3D homology modelling. These findings suggest potential dual effects of AMPs in cancer therapy."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Enzymatic Targets for Drug Discovery Against Alzheimer's Disease",
+      "publisher": "Bentham Science (Book Chapter)",
+      "releaseDate": "2023",
+      "url": "https://doi.org/10.2174/9789815136142123010009",
+      "summary": "Alzheimer's Disease (AD) is a neurodegenerative disease. The disease itself is progressive and full recovery from it isn't achievable yet. There are several hypotheses asserted (Cholinergic hypothesis, Amyloid hypothesis etc.) to explain the mechanisms behind the disease. Also, many targets have been identified for possible therapeutics and from these targets, numerous drug candidates have been evaluated in clinical trials. Unfortunately, most of these trials failed due to the enigmatic nature of this disease. Currently, there are 7103 targets associated with Alzheimer's disease listed in the Open Targets platform where 1240 of them are enzyme-related. In this chapter, enzymatic targets of the AD have been reviewed, and those claimed to have disease modifying effects were selected and presented according to their clinical significance."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Pharmacokinetic Profile and a Bioequivalence Study of Apixaban in Healthy Volunteers",
+      "publisher": "Nobel Medicus",
+      "releaseDate": "2023",
+      "url": "https://www.nobelmedicus.com/en/article/777",
+      "summary": "A single-dose, open-label, randomized, two-period cross-over study in 32 healthy male volunteers assessed bioequivalence between a test Apixaban tablet (Nobel İlaç) and the reference product (Eliquis 5 mg). Key pharmacokinetic parameters (Cmax, AUC) were within the CI 80-125%, indicating bioequivalence. No significant adverse events were observed, and the results confirm individual interchangeability of the test and reference products, supporting the test product's use as a valid anticoagulant therapy option."
+    },
+    {
+      "name": "Models of Spike, Envelope and Membrane Proteins of SARS-CoV-2 Variants for Possible Therapeutics",
+      "publisher": "Journal of Medical Topics and Updates",
+      "releaseDate": "2022",
+      "url": "https://doi.org/10.5281/zenodo.7476169",
+      "summary": "A study examined five SARS-CoV-2 variants of concern (VoC) by analyzing mutations in the spike, envelope, and membrane proteins. Most mutations were found in the spike protein; the envelope and membrane proteins had only one mutation each in some variants. These findings suggest that targeting the less mutated structural proteins could be useful for future vaccine and drug development."
+    },
+    {
+      "name": "Antibiotic Susceptibility of Klebsiella pneumoniae Strains Isolated from Clinical Samples",
+      "publisher": "JOTCSA",
+      "releaseDate": "2020",
+      "url": "https://doi.org/10.18596/jotcsa.635088",
+      "summary": "A retrospective study analyzed 502 Klebsiella pneumoniae strains, revealing rising carbapenem resistance. K. pneumoniae, though part of normal human flora, causes nosocomial infections. Findings suggest escalating resistance, especially in critical care settings, prompting recommendation for stricter antibiotic management policies."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Clinical Research",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "BE/BA & Phase 1 Studies",
+        "Late Phase Studies",
+        "Registry-based Studies",
+        "Preparation of clinical and non-clinical CTD Modules",
+        "Regulatory Compliance",
+        "Contracts & Negotiation",
+        "Pharmacovigilance"
+      ]
+    },
+    {
+      "name": "Business Development",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Out-Licensing (Pharma, IVD, MD)",
+        "In-Licensing (MD)",
+        "Cold Calling",
+        "Market Research",
+        "Regulatory Submissions",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "Academics",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Oral & Poster Presentations",
+        "Machine Learning",
+        "Advanced Therapeutics",
+        "Medical Writing",
+        "Basic Programming Skills",
+        "Networking"
       ]
     }
   ],
@@ -235,46 +310,28 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Advanced Therapeutics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "keywords": ["Clinical Development", "HCP Engagement", "Technology Transfer (Preclinical & Clinical)", "International Guidelines"]
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Bionformatics",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["Machine Learning", "Programming Languages", "Preclinical Development", "Drug Discovery"]
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "A machine learning model method developed for determining anticancer activity of peptides",
+      "summary": "Patent Pending.",
+      "highlights": ["Bioinformatics", "Machine Learning"],
+      "releaseDate": "2024"
     },
     {
-      "name": "Clinical Trial Management Platform",
+      "name": "Automation & Digitalization",
       "summary": "Developed an online platform integrating IMP procurement and regulatory affairs requests. Built RPA software to track study timelines and manage EC/MoH applications for clinical trials and BE studies.",
       "highlights": ["RPA", "Clinical Trials", "Regulatory Compliance"],
-      "startDate": "2023-01-01",
-      "endDate": "2023-12-31",
-      "url": "https://example.com/clinical-platform"
+      "releaseDate": "2023"
     }
   ]
 }
