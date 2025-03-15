@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Collaborations
-permalink: /collaborations/
+permalink: /people/
 description: Clinical Research & Academic Partnerships
+nav_order: 7
 ---
 
 ## Clinical Research Collaborations

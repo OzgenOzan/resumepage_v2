@@ -2,7 +2,6 @@
 layout: page
 title: Machine Learning for Anticancer Peptides
 description: A machine learning model developed for determining anticancer activity of peptides
-img: assets/img/ml_peptides.jpg
 importance: 1
 category: research
 related_publications: ozgen2024anticancer

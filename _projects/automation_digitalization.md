@@ -2,9 +2,8 @@
 layout: page
 title: Clinical Research Automation
 description: Digital solutions for tracking study timelines and regulatory applications
-img: assets/img/automation.jpg
-importance: 2
-category: automation
+importance: 1
+category: technology
 ---
 
 ## Pharmaceutical Research Process Automation
