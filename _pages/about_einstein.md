@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Clinical Research Specialist - Ars longa, vita brevis.
+subtitle: Sr. Clinical Research Specialist - Ars longa, vita brevis.
 
 profile:
   align: right
