@@ -86,9 +86,27 @@ layout: default
             {% endunless %}
           {% endif %}
           {% if data[0] == 'meta' or data[1].size == 0 %} {% continue %} {% endif %}
+          {% capture section_title %}
+            {% case data[0] %}
+              {% when 'basics' %}Basics
+              {% when 'work' %}Work Experience
+              {% when 'education' %}Education
+              {% when 'publications' %}Publications
+              {% when 'presentations' %}Presentations
+              {% when 'projects' %}Projects
+              {% when 'volunteer' %}Networks and Memberships
+              {% when 'awards' %}Awards
+              {% when 'skills' %}Skills
+              {% when 'languages' %}Languages
+              {% when 'interests' %}Interests
+              {% when 'certificates' %}Certificates
+              {% when 'references' %}References
+              {% else %}{{ data[0] | capitalize }}
+            {% endcase %}
+          {% endcapture %}
           <a class="anchor" id="{{ data[0] }}"></a>
           <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+            <h3 class="card-title font-weight-medium">{{ section_title | strip }}</h3>
             <div>
               {% case data[0] %}
                 {% when 'basics' %}

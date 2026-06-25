@@ -27,25 +27,23 @@
       year: 2014-2019
       description: GPA 2.95/4.0
 
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
     - title: Senior Clinical Research Specialist
       institution: Nobel İlaç
       year: 2023-Present
       description:
-        - Supports preclinical and clinical activities and regulatory submissions in more than 50 countries
-        - Negotiated contracts with more than 15 CROs across Europe, Jordan, and India
-        - Prepared clinical and non-clinical CTD modules for more than 80 medicinal products
-        - Conducted monitoring visits for two clinical trials and 20 bioequivalence studies
-        - Developed clinical workflow automation and a RAG system for regulatory guidelines
+        - Coordinates clinical research and bioequivalence study activities
+        - Supports regulatory documentation and cross-functional stakeholder management
+        - Contributes to clinical workflow automation and compliance process improvement
     - title: Business Development Executive
       institution: Biocalis
       year: 2020-2023
       description:
-        - Managed healthcare accounts across EMEA and Central Asia
-        - Conducted market research and international lead generation
-        - Coordinated product registration and portfolio development
+        - Supported healthcare business development and account coordination
+        - Conducted market research and lead-generation activities
+        - Contributed to portfolio and product-registration coordination
     - title: Retail Pharmacist
       institution: Avaroğlu Pharmacy
       year: 2019-2020

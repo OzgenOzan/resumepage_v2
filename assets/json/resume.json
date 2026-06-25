@@ -35,15 +35,12 @@
       "location": "Istanbul, Türkiye",
       "startDate": "2023-04",
       "endDate": "",
-      "summary": "Support preclinical and clinical activities, regulatory submissions in more than 50 countries, and R&D timelines for product launches.",
+      "summary": "Coordinates clinical research, bioequivalence, regulatory, and cross-functional development activities in a pharmaceutical environment.",
       "highlights": [
-        "Negotiated contracts with more than 15 CROs across Europe, Jordan, and India and established partnerships with service vendors.",
-        "Prepared clinical and non-clinical CTD modules for more than 80 medicinal products, including biosimilars, and conducted preliminary research for more than 30 generic and biosimilar projects.",
-        "Integrated IMP procurement and regulatory affairs requests into an online platform; developed RPA software for study timelines and EC/MoH applications and a retrieval-augmented generation system for regulatory guidelines.",
-        "Conducted monitoring visits for two clinical trials and 20 bioequivalence studies; completed site qualification audits at four sites in Türkiye and six in India; and performed feasibility visits at more than 15 public and university hospitals in Türkiye.",
-        "Served as the accountable person for organizing pharmacovigilance activities within clinical trials.",
-        "Processed more than 60 regulatory authority inquiries and deficiencies and supported CAPA preparation following a BfArM site audit for a bioequivalence project.",
-        "Organized and facilitated four investigator meetings."
+        "Clinical research and bioequivalence study coordination",
+        "Regulatory documentation and stakeholder management",
+        "Clinical workflow automation and compliance process improvement",
+        "Pharmacovigilance and investigator-meeting support"
       ]
     },
     {
@@ -53,13 +50,12 @@
       "location": "Istanbul, Türkiye",
       "startDate": "2020-06",
       "endDate": "2023-04",
-      "summary": "Managed healthcare accounts across EMEA and Central Asia, coordinating offices in Albania, Azerbaijan, Uzbekistan, and Russia while using HubSpot CRM and Excel to track account performance.",
+      "summary": "Supported healthcare business development, account management, market research, and portfolio activities across international markets.",
       "highlights": [
-        "Conducted market research on biomarkers of interest to CDMOs, CROs, and research organizations and generated leads using Springer's AdisInsight.",
-        "Opened new PCR-kit accounts in Croatia, Romania, the UAE, and Pakistan during the COVID-19 pandemic; these accounts later distributed additional in-vitro diagnostics.",
-        "Identified a gap in the Albanian market, proposed cefuroxime for the local portfolio, and coordinated registration, contributing to significant revenue growth during the pandemic.",
-        "Integrated AI-powered 3D/4D aesthetic simulation software into the plastic surgery portfolio and trained more than 20 plastic surgeons.",
-        "Created educational and promotional materials that supported delivery of the Allurion intragastric balloon to more than 3,000 patients in Türkiye."
+        "International account coordination",
+        "Market research and lead-generation support",
+        "Portfolio and product-registration coordination",
+        "Healthcare professional-facing material development"
       ]
     },
     {
@@ -68,7 +64,7 @@
       "location": "Istanbul, Türkiye",
       "startDate": "2019-08",
       "endDate": "2020-06",
-      "summary": "Coordinated safe and effective medication therapy for patients and adapted pharmacy operations during the COVID-19 pandemic.",
+      "summary": "Provided patient-focused medication support and contributed to daily pharmacy operations.",
       "highlights": [
         "Patient counselling",
         "Medication therapy management",
@@ -79,7 +75,7 @@
       "name": "University Hospital, Retail Pharmacies, and Pharmaceutical Company",
       "position": "Student Intern",
       "location": "Antalya and Istanbul, Türkiye",
-      "summary": "Completed three months in a university hospital as a clinical pharmacist, five months in retail pharmacies, and one month in a pharmaceutical company's marketing department.",
+      "summary": "Completed hospital, retail pharmacy, and pharmaceutical industry internships.",
       "highlights": [
         "Clinical pharmacy",
         "Retail pharmacy",
@@ -346,7 +342,7 @@
       "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "Driver's Licence (B)",
+      "name": "Driver's License (B)",
       "date": "",
       "issuer": "",
       "url": "",
