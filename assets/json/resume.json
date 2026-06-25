@@ -1,99 +1,138 @@
 {
   "basics": {
     "name": "Ahmet Ozan ÖZGEN",
-    "label": "Pharm. (MSc)",
+    "label": "Pharm. (MSc) | Senior Clinical Research Specialist",
     "image": "",
     "email": "ozan_ozgen@outlook.com",
-    "phone": "",
+    "phone": "+90 505 759 2056",
     "url": "https://pharmozgen.me",
-    "summary": "Experienced clinical research professional with expertise in BE/BA studies, clinical trials, and regulatory compliance. Strong skills in stakeholder management, contract negotiation, and portfolio oversight. Leverages data science and programming to drive innovative solutions in pharmaceutical research.",
+    "summary": "Clinical research and business development professional with expertise in bioavailability and bioequivalence studies, clinical trials, regulatory compliance, contracts, and stakeholder management. Applies data science and programming to healthcare and pharmaceutical research problems.",
     "location": {
       "address": "Ümraniye",
       "postalCode": "34764",
       "city": "Istanbul",
       "countryCode": "TR",
-      "region": "Turkiye"
+      "region": "Türkiye"
     },
     "profiles": [
       {
         "network": "LinkedIn",
         "username": "719101",
         "url": "https://www.linkedin.com/in/719101/"
+      },
+      {
+        "network": "GitHub",
+        "username": "OzgenOzan",
+        "url": "https://github.com/OzgenOzan"
       }
     ]
   },
   "work": [
     {
       "name": "Nobel İlaç",
-      "position": "Clinical Research Specialist",
+      "position": "Senior Clinical Research Specialist",
       "url": "https://www.nobel.com.tr/",
-      "startDate": "2023/04",
-      "endDate": "Current",
-      "summary": [
-        "Nobel, as a pharmaceutical company, operates with five manufacturing facilities, three in Turkiye and one in Kazakhstan and Uzbekistan, while carrying out promotion and sales activities with its organizations in 20 countries, and through distributors in 30 countries. In my role, I contribute to preclinical and clinical activities, ensuring strict compliance with R&D timelines and product launches. Additionally, I manage responses to regulatory queries and deficiencies for regulatory submissions in over 50 countries. Key achievements include:<br>",
-        "- Negotiated contracts with over 10 CROs across Europe, the USA, and India while establishing partnerships with various service vendors.<br>",
-        "- Prepared clinical and non-clinical modules (CTD) for more than 30 medicinal products including biosimilars. Conducted preliminary research for more than 25 projects (generics & biosimilars).<br>",
-        "- Integrated IMP procurement and regulatory affairs requests into an online platform. Also, Developed RPA software with a vendor to track study timelines, and EC/MoH applications.<br>",
-        "- Monitoring visits to two clinical trials and fifteen BE studies in Turkiye. Also, site qualification audits to four sites in Turkiye and six in India.<br>",
-        "- Accountable person for organizing pharmacovigilance activities within clinical trials.<br>",
-        "- Successfully processed over 30 inquiries and deficiencies from regulatory authorities. Also, assisted in preparing CAPA for a BfArM site audit for a BE project.<br>",
-        "- Organized and facilitated four investigator meetings."
-      ],
-      "highlights": ["Clinical Trials", "Regulatory Compliance", "Pharmacovigilance", "CRO Management", "HCP Engagement", "Contracts"]
+      "location": "Istanbul, Türkiye",
+      "startDate": "2023-04",
+      "endDate": "",
+      "summary": "Support preclinical and clinical activities, regulatory submissions in more than 50 countries, and R&D timelines for product launches.",
+      "highlights": [
+        "Negotiated contracts with more than 15 CROs across Europe, Jordan, and India and established partnerships with service vendors.",
+        "Prepared clinical and non-clinical CTD modules for more than 80 medicinal products, including biosimilars, and conducted preliminary research for more than 30 generic and biosimilar projects.",
+        "Integrated IMP procurement and regulatory affairs requests into an online platform; developed RPA software for study timelines and EC/MoH applications and a retrieval-augmented generation system for regulatory guidelines.",
+        "Conducted monitoring visits for two clinical trials and 20 bioequivalence studies; completed site qualification audits at four sites in Türkiye and six in India; and performed feasibility visits at more than 15 public and university hospitals in Türkiye.",
+        "Served as the accountable person for organizing pharmacovigilance activities within clinical trials.",
+        "Processed more than 60 regulatory authority inquiries and deficiencies and supported CAPA preparation following a BfArM site audit for a bioequivalence project.",
+        "Organized and facilitated four investigator meetings."
+      ]
     },
     {
       "name": "Biocalis",
       "position": "Business Development Executive",
       "url": "https://www.biocalis.com/",
-      "startDate": "2020/06",
-      "endDate": "2023/04",
-      "summary": [
-        "Biocalis is a healthcare company specializing in in-vitro diagnostics, medical devices and pharmaceuticals and leverages a wide distribution network spanning over 25 countries. In my role, I collaborated with an international team and managed accounts in EMEA and Central Asia, coordinating the eﬀorts of our oﬃces in Albania, Azerbaijan, Uzbekistan, and Russia while reporting directly to the managing director. I utilized HubSpot CRM and Excel to analyze performance metrics and track account activities. Key contributions include:<br>",
-        "- Conducted market research for a partner (in-vitro diagnostics) to identify potential biomarkers of interest to CDMOs CROs, and other research organizations, followed by lead generation through Springer's AdisInsight subscription.<br>",
-        "- Initiated outbound lead generation for PCR Kits during the COVID-19 pandemic, successfully adding new accounts in Croatia, Romania, the UAE, and Pakistan. These accounts also began distributing our other in-vitro diagnostics.<br>",
-        "- Identiﬁed a critical gap in the Albanian market and proposed adding cefuroxime to our Albanian portfolio to address the demand for secondary bacterial infection prevention in COVID-19 patients. Coordinated its registration process and signiﬁcantly increased our revenue during the pandemic.<br>",
-        "- Found and integrated an AI-powered 3D/4D aesthetic simulation software into our plastic surgery portfolio and supported over 20 plastic surgeons with product training and sales strategies.<br>",
-        "- Created and delivered many materials (educational & promotional) to HCPs and patients in Turkiye, enhancing the reach of our Allurion intragastrical balloon to over 3000 patients."
-      ],
-      "highlights": ["Regulatory Strategy", "Out-Licensing", "Negotiation", "Market Research", "Lead Generation", "Account Management"]
+      "location": "Istanbul, Türkiye",
+      "startDate": "2020-06",
+      "endDate": "2023-04",
+      "summary": "Managed healthcare accounts across EMEA and Central Asia, coordinating offices in Albania, Azerbaijan, Uzbekistan, and Russia while using HubSpot CRM and Excel to track account performance.",
+      "highlights": [
+        "Conducted market research on biomarkers of interest to CDMOs, CROs, and research organizations and generated leads using Springer's AdisInsight.",
+        "Opened new PCR-kit accounts in Croatia, Romania, the UAE, and Pakistan during the COVID-19 pandemic; these accounts later distributed additional in-vitro diagnostics.",
+        "Identified a gap in the Albanian market, proposed cefuroxime for the local portfolio, and coordinated registration, contributing to significant revenue growth during the pandemic.",
+        "Integrated AI-powered 3D/4D aesthetic simulation software into the plastic surgery portfolio and trained more than 20 plastic surgeons.",
+        "Created educational and promotional materials that supported delivery of the Allurion intragastric balloon to more than 3,000 patients in Türkiye."
+      ]
     },
     {
       "name": "Avaroğlu Pharmacy",
       "position": "Retail Pharmacist",
-      "startDate": "2019/08",
-      "endDate": "2020/06",
-      "summary": [
-        "I was responsible for coordinating safe and effective medication therapy for patients. Also, I had to adapt the everyday routine of the personnel to conditions caused by the COVID-19 pandemic."
-      ],
-      "highlights": ["Patient Counseling", "Polypharmacy Management", "Pharmacy Operations", "COVID-19"]
+      "location": "Istanbul, Türkiye",
+      "startDate": "2019-08",
+      "endDate": "2020-06",
+      "summary": "Coordinated safe and effective medication therapy for patients and adapted pharmacy operations during the COVID-19 pandemic.",
+      "highlights": [
+        "Patient counselling",
+        "Medication therapy management",
+        "Pharmacy operations"
+      ]
+    },
+    {
+      "name": "University Hospital, Retail Pharmacies, and Pharmaceutical Company",
+      "position": "Student Intern",
+      "location": "Antalya and Istanbul, Türkiye",
+      "summary": "Completed three months in a university hospital as a clinical pharmacist, five months in retail pharmacies, and one month in a pharmaceutical company's marketing department.",
+      "highlights": [
+        "Clinical pharmacy",
+        "Retail pharmacy",
+        "Pharmaceutical marketing"
+      ]
     }
   ],
   "volunteer": [
     {
       "organization": "Istanbul Chamber of Pharmacists",
-      "location": "Istanbul, Turkiye",
+      "location": "Istanbul, Türkiye",
       "position": "Youth Assembly and Assistant Pharmacists Commission Member",
       "url": "https://www.istanbuleczaciodasi.org.tr/",
-      "startDate": "2019/10",
-      "endDate": "2023/08",
-      "summary": "Our projects focused on the sustainable development goals of the UN and their adaptation to pharmacists in general. I have also volunteered for a week in one of the field pharmacies (Antakya, Turkiye) after the 6 February 2023 earthquakes.",
-      "highlights": ["NGO", "Pharmacy Disaster Management"]
+      "startDate": "2019-10",
+      "endDate": "2023-08",
+      "summary": "Contributed to projects connecting the UN Sustainable Development Goals with pharmacy practice and volunteered for one week at a field pharmacy in Antakya after the 6 February 2023 earthquakes.",
+      "highlights": [
+        "Sustainable development",
+        "Pharmacy disaster response"
+      ]
+    },
+    {
+      "organization": "Huawei Seeds for the Future",
+      "location": "Istanbul and Athens",
+      "position": "ICT Talent Program Participant and Team Lead",
+      "url": "https://www.huawei.com/en/news/2022/12/european-talent-summit",
+      "startDate": "2022-07",
+      "endDate": "2023-01",
+      "summary": "Led a team of 10 that developed an AI-driven concept to prevent violence against healthcare workers. The team won the Türkiye stage of the competition and participated in the European Talent Summit in Athens.",
+      "highlights": [
+        "Team leadership",
+        "Artificial intelligence",
+        "Healthcare innovation"
+      ]
     },
     {
       "organization": "Istanbul Chamber of Pharmacists, Youth Assembly",
-      "location": "Istanbul, Turkiye",
+      "location": "Istanbul, Türkiye",
       "position": "Youth Delegate",
       "url": "http://ieogm.org/",
-      "startDate": "2017/10",
-      "endDate": "2019/10",
-      "summary": "Youth Delegate IEO Youth Assembly is an autonomous structure where pharmacy students and pharmacists take place and produce together. I had been selected as a delegate in an election that took place in my faculty. I represented my faculty for 2 years and served in many projects. We have organized the first (2018) and the second (2019) pharmacist youth meetings.",
-      "highlights": ["Event Coordination"]
+      "startDate": "2017-10",
+      "endDate": "2019-10",
+      "summary": "Represented Istanbul Medipol University for two years and helped organize the first and second Pharmacist Youth Meetings in 2018 and 2019.",
+      "highlights": [
+        "Representation",
+        "Event coordination"
+      ]
     }
   ],
   "education": [
     {
       "institution": "Istanbul Medipol University",
-      "location": "Istanbul, Turkiye",
+      "location": "Istanbul, Türkiye",
       "url": "https://www.medipol.edu.tr/",
       "area": "Pharmacy",
       "studyType": "BSc",
@@ -110,7 +149,10 @@
       "startDate": "2021",
       "endDate": "2023",
       "score": "4.0/4.0",
-      "courses": ["Bioinformatics", "Machine Learning"]
+      "courses": [
+        "Bioinformatics",
+        "Machine Learning"
+      ]
     },
     {
       "institution": "Akdeniz University",
@@ -119,180 +161,229 @@
       "area": "Gene and Cell Therapy",
       "studyType": "PhD",
       "startDate": "2024",
-      "endDate": "2030",
-      "score": "Completed the course period"
-    }
-  ],
-  "awards": [
-    {
-      "title": "Honor Reward",
-      "date": "2023/05",
-      "awarder": "Istanbul Chamber of Pharmacists",
-      "url": "https://www.pharmetic.org/istanbul-eczaci-odasi-2023-yili-meslek-ici-onur-odulleri",
-      "summary": "I have been awarded for my volunteer work in a field pharmacy after the 6 February 2023 earthquakes."
-    },
-    {
-      "title": "Local Competition Winner",
-      "date": "2022/07",
-      "awarder": "Seeds for the Future (ICT Talent) - Huawei",
-      "url": "https://www.huawei.com/en/news/2022/12/european-talent-summit",
-      "summary": "As part of Huawei's global Corporate Social Responsibility flagship program; I have been selected for the program in 2022 after several interviews. I have led a team of 10, and we have developed and presented an AI-driven solution to prevent violence toward healthcare workers. We have won the Turkish part in the global competition and participated in the talent summit held in Athens."
-    }
-  ],
-  "certificates": [
-    {
-      "name": "GCP Training",
-      "date": "2023",
-      "issuer": "Turkish Clinical Research Association",
-      "url": "",
-      "icon": "fa-solid fa-clipboard-check"
-    },
-    {
-      "name": "QPPV Training",
-      "date": "2024",
-      "issuer": "TITCK",
-      "url": "",
-      "icon": "fa-solid fa-clipboard-check"
-    },
-    {
-      "name": "Internal Auditor (ISO 9001:2015)",
-      "date": "2024",
-      "issuer": "İstanbul Kalite Danışmanlığı",
-      "url": "",
-      "icon": "fa-solid fa-clipboard-check"
-    },
-    {
-      "name": "Adaptive Designs in Clinical Trials",
-      "date": "2024",
-      "issuer": "Turkish Clinical Research Association",
-      "url": "",
-      "icon": "fa-solid fa-clipboard-check"
-    },
-    {
-      "name": "Medical Device Clinical Trials",
-      "date": "2024",
-      "issuer": "Turkish Clinical Research Association",
-      "url": "",
-      "icon": "fa-solid fa-clipboard-check"
-    },
-    {
-      "name": "McKinsey Forward Program",
-      "date": "2024",
-      "issuer": "McKinsey Academy",
-      "url": "",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "8-week Pharmaceutical Industry Education Program",
-      "date": "2024",
-      "issuer": "MUEF & TISD",
-      "url": "",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "R Programming A-Z™: R For Data Science With Real Exercises!",
-      "date": "2021",
-      "issuer": "Udemy",
-      "url": "",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Git a Web Developer Job: Mastering the Modern Workflow",
-      "date": "2022",
-      "issuer": "Udemy",
-      "url": "",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Business Development & B2B Sales for Startups - Sales Valley",
-      "date": "2022",
-      "issuer": "Udemy",
-      "url": "",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Current Approaches in Bioengineering",
-      "date": "2021",
-      "issuer": "Ege University",
-      "url": "",
-      "icon": "fa-solid fa-hashtag"
+      "endDate": "",
+      "score": "Coursework completed"
     }
   ],
   "publications": [
     {
+      "name": "Pharmacokinetic Profile and the Bioequivalence Study of Macitentan FCT in Healthy Volunteers",
+      "publisher": "Nobel Medicus (Research Article, Preprint)",
+      "releaseDate": "2026",
+      "url": "",
+      "summary": "Preprint."
+    },
+    {
       "name": "In Silico Investigation of Anticancer Properties of Antimicrobial Peptides",
-      "publisher": "CoHE (Dissertation)",
+      "publisher": "Council of Higher Education (MSc Dissertation)",
       "releaseDate": "2024",
-      "summary": "A machine learning model—specifically a random forest using amino acid and dipeptide features—was developed to predict anticancer activity in 10,000 antimicrobial peptides (AMPs). The model showed 79.5% accuracy on its validation set, and 1648 peptides demonstrated favorable anticancer properties. Additional analyses included clustering, physicochemical property predictions, and 3D homology modelling. These findings suggest potential dual effects of AMPs in cancer therapy."
+      "url": "",
+      "summary": "Developed a random-forest model using amino-acid and dipeptide features to predict anticancer activity in antimicrobial peptides."
     },
     {
       "name": "Enzymatic Targets for Drug Discovery Against Alzheimer's Disease",
       "publisher": "Bentham Science (Book Chapter)",
       "releaseDate": "2023",
       "url": "https://doi.org/10.2174/9789815136142123010009",
-      "summary": "Alzheimer's Disease (AD) is a neurodegenerative disease. The disease itself is progressive and full recovery from it isn't achievable yet. There are several hypotheses asserted (Cholinergic hypothesis, Amyloid hypothesis etc.) to explain the mechanisms behind the disease. Also, many targets have been identified for possible therapeutics and from these targets, numerous drug candidates have been evaluated in clinical trials. Unfortunately, most of these trials failed due to the enigmatic nature of this disease. Currently, there are 7103 targets associated with Alzheimer's disease listed in the Open Targets platform where 1240 of them are enzyme-related. In this chapter, enzymatic targets of the AD have been reviewed, and those claimed to have disease modifying effects were selected and presented according to their clinical significance."
+      "summary": "Reviewed enzyme-related therapeutic targets associated with Alzheimer's disease and their clinical significance."
     },
     {
       "name": "Pharmacokinetic Profile and a Bioequivalence Study of Apixaban in Healthy Volunteers",
       "publisher": "Nobel Medicus",
       "releaseDate": "2023",
       "url": "https://www.nobelmedicus.com/en/article/777",
-      "summary": "A single-dose, open-label, randomized, two-period cross-over study in 32 healthy male volunteers assessed bioequivalence between a test Apixaban tablet (Nobel İlaç) and the reference product (Eliquis 5 mg). Key pharmacokinetic parameters (Cmax, AUC) were within the CI 80-125%, indicating bioequivalence. No significant adverse events were observed, and the results confirm individual interchangeability of the test and reference products, supporting the test product's use as a valid anticoagulant therapy option."
+      "summary": "Reported a randomized crossover study demonstrating bioequivalence between test and reference apixaban tablets."
     },
     {
       "name": "Models of Spike, Envelope and Membrane Proteins of SARS-CoV-2 Variants for Possible Therapeutics",
       "publisher": "Journal of Medical Topics and Updates",
       "releaseDate": "2022",
       "url": "https://doi.org/10.5281/zenodo.7476169",
-      "summary": "A study examined five SARS-CoV-2 variants of concern (VoC) by analyzing mutations in the spike, envelope, and membrane proteins. Most mutations were found in the spike protein; the envelope and membrane proteins had only one mutation each in some variants. These findings suggest that targeting the less mutated structural proteins could be useful for future vaccine and drug development."
+      "summary": "Compared mutations in SARS-CoV-2 structural proteins across variants of concern to identify potential therapeutic targets."
     },
     {
       "name": "Antibiotic Susceptibility of Klebsiella pneumoniae Strains Isolated from Clinical Samples",
-      "publisher": "JOTCSA",
+      "publisher": "Journal of the Turkish Chemical Society Section A: Chemistry",
       "releaseDate": "2020",
       "url": "https://doi.org/10.18596/jotcsa.635088",
-      "summary": "A retrospective study analyzed 502 Klebsiella pneumoniae strains, revealing rising carbapenem resistance. K. pneumoniae, though part of normal human flora, causes nosocomial infections. Findings suggest escalating resistance, especially in critical care settings, prompting recommendation for stricter antibiotic management policies."
+      "summary": "Analyzed antimicrobial susceptibility patterns in 502 clinical Klebsiella pneumoniae isolates."
+    }
+  ],
+  "presentations": [
+    {
+      "name": "Correlation Between Safety Issues and Success in Clinical Trials of ATMPs",
+      "publisher": "IPC Abstract Book, O13 - Oral Presentation",
+      "releaseDate": "2026-11",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "In Silico Investigation of Anticancer Properties of Antimicrobial Peptides",
+      "publisher": "IPC Abstract Book, O55 - Oral Presentation",
+      "releaseDate": "2026-11",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "In Silico Investigation of Anticancer Properties of Antimicrobial Peptides",
+      "publisher": "IPC Abstract Book, 0240 - Oral Presentation",
+      "releaseDate": "2025-11",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Document Classification with Optical Character Recognition and Support Vector Machines in Clinical Research",
+      "publisher": "6th CRC Abstract Book, 28-30 - Poster Presentation",
+      "releaseDate": "2024-11",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Pharmacoeconomic Evaluation of Ulcerative Colitis and Crohn's Disease Treatments in Türkiye in Terms of Biosimilars",
+      "publisher": "IPC Abstract Book, 276-277 - Oral Presentation",
+      "releaseDate": "2023-11",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Pharmacovigilance Training for 600+ Employees",
+      "publisher": "Nobel İlaç End-of-Year Meeting, Antalya - Trainer",
+      "releaseDate": "2023-12",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Pharmacoeconomic Evaluation of Nusinersen for Spinal Muscular Atrophy in Türkiye",
+      "publisher": "BIO Türkiye Abstract Book, 56-57 - Oral Presentation",
+      "releaseDate": "2023-09",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Medical Implants - SEBBIN",
+      "publisher": "ISAPS 2022, Istanbul - Exhibitor",
+      "releaseDate": "2022-09",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Artificial Intelligence in Pharmacy",
+      "publisher": "8th National Congress of Hospital and Institutional Pharmacists - Guest Speaker",
+      "releaseDate": "2022-03",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "In Silico Stability of Matrixyl Peptide Solution in Thermal Stress",
+      "publisher": "IPTS 2022 Abstract Book, 175-177 - Oral Presentation",
+      "releaseDate": "2022-02",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Pharmacoeconomic Evaluation of Biosimilars in Developing Countries",
+      "publisher": "IPC Abstract Book, 240-243 - Oral Presentation",
+      "releaseDate": "2021-11",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Antibiotic Susceptibility of Klebsiella pneumoniae Strains Isolated from Clinical Samples",
+      "publisher": "NCC Abstract Book, 372 - Poster Presentation",
+      "releaseDate": "2019-09",
+      "url": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Good Clinical Practice Training",
+      "date": "2023",
+      "issuer": "Turkish Clinical Research Association",
+      "url": "",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Qualified Person Responsible for Pharmacovigilance (QPPV)",
+      "date": "2024",
+      "issuer": "Turkish Medicines and Medical Devices Agency (TİTCK)",
+      "url": "",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "DataLonga AI School",
+      "date": "",
+      "issuer": "13-week education program",
+      "url": "",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Internal Auditor (ISO 9001:2015)",
+      "date": "",
+      "issuer": "",
+      "url": "",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "McKinsey Forward Program",
+      "date": "",
+      "issuer": "McKinsey Academy",
+      "url": "",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Pharmaceutical Industry Education Program",
+      "date": "",
+      "issuer": "MUEF & TISD - 8-week program",
+      "url": "",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Statistics School",
+      "date": "",
+      "issuer": "Akdeniz University - 8-week program",
+      "url": "",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Driver's Licence (B)",
+      "date": "",
+      "issuer": "",
+      "url": "",
+      "icon": "fa-solid fa-id-card"
     }
   ],
   "skills": [
     {
-      "name": "Clinical Research",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Regulatory & Compliance",
+      "level": "Advanced",
+      "icon": "fa-solid fa-shield-halved",
       "keywords": [
-        "BE/BA & Phase 1 Studies",
-        "Late Phase Studies",
-        "Registry-based Studies",
-        "Preparation of clinical and non-clinical CTD Modules",
-        "Regulatory Compliance",
-        "Contracts & Negotiation",
-        "Pharmacovigilance"
+        "ICH-GCP",
+        "ICH, EMA, and FDA guidelines",
+        "Data integrity",
+        "GDPR"
       ]
     },
     {
-      "name": "Business Development",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Technical",
+      "level": "Advanced",
+      "icon": "fa-solid fa-code",
       "keywords": [
-        "Out-Licensing (Pharma, IVD, MD)",
-        "In-Licensing (MD)",
-        "Cold Calling",
-        "Market Research",
-        "Regulatory Submissions",
-        "Portfolio Management"
+        "Clinical and non-clinical CTD preparation and assessment",
+        "Python and R for machine learning",
+        "SQL"
       ]
     },
     {
-      "name": "Academics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Professional",
+      "level": "Advanced",
+      "icon": "fa-solid fa-people-group",
       "keywords": [
-        "Oral & Poster Presentations",
-        "Machine Learning",
-        "Advanced Therapeutics",
-        "Medical Writing",
-        "Basic Programming Skills",
-        "Networking"
+        "Cross-functional collaboration",
+        "Stakeholder management",
+        "Effective delegation",
+        "Contract negotiation"
       ]
     }
   ],
@@ -312,26 +403,46 @@
     {
       "name": "Advanced Therapeutics",
       "icon": "fa-solid fa-tag",
-      "keywords": ["Clinical Development", "HCP Engagement", "Technology Transfer (Preclinical & Clinical)", "International Guidelines"]
+      "keywords": [
+        "Clinical development",
+        "Technology transfer",
+        "International regulatory guidelines"
+      ]
     },
     {
-      "name": "Bionformatics",
+      "name": "Bioinformatics",
       "icon": "fa-solid fa-tag",
-      "keywords": ["Machine Learning", "Programming Languages", "Preclinical Development", "Drug Discovery"]
+      "keywords": [
+        "Machine learning",
+        "Programming",
+        "Preclinical development",
+        "Drug discovery"
+      ]
     }
   ],
   "projects": [
     {
-      "name": "A machine learning model method developed for determining anticancer activity of peptides",
-      "summary": "Patent Pending.",
-      "highlights": ["Bioinformatics", "Machine Learning"],
-      "releaseDate": "2024"
+      "name": "Machine Learning for Anticancer Peptides",
+      "url": "/projects/anticancer_peptide_ml/",
+      "summary": "Developed a patent-pending machine-learning method to determine anticancer activity in peptides.",
+      "highlights": [
+        "Bioinformatics",
+        "Random forest",
+        "Drug discovery"
+      ],
+      "startDate": "2024"
     },
     {
-      "name": "Automation & Digitalization",
-      "summary": "Developed an online platform integrating IMP procurement and regulatory affairs requests. Built RPA software to track study timelines and manage EC/MoH applications for clinical trials and BE studies.",
-      "highlights": ["RPA", "Clinical Trials", "Regulatory Compliance"],
-      "releaseDate": "2023"
+      "name": "Clinical Research Automation and Digitalization",
+      "url": "/projects/automation_digitalization/",
+      "summary": "Integrated IMP procurement and regulatory requests, built RPA tracking for study timelines and EC/MoH applications, and developed a RAG system for regulatory guidelines.",
+      "highlights": [
+        "RPA",
+        "Clinical trials",
+        "Regulatory compliance",
+        "Retrieval-augmented generation"
+      ],
+      "startDate": "2023"
     }
   ]
 }

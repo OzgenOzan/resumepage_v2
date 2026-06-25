@@ -3,19 +3,18 @@
   contents:
     - name: Full Name
       value: Ahmet Ozan Özgen
-    - name: Date of Birth
-      value: 15th June 1995
+    - name: Professional Title
+      value: Senior Clinical Research Specialist
     - name: Languages
-      value: English, Turkish
+      value: Turkish (native), English (full professional proficiency)
 
 - title: Education
   type: time_table
   contents:
     - title: PhD in Gene and Cell Therapy
       institution: Akdeniz University
-      year: 2024-2030
-      description: Currently in course period
-
+      year: 2024-Present
+      description: Coursework completed
     - title: MSc in Medical Biotechnology
       institution: Akdeniz University
       year: 2021-2023
@@ -23,7 +22,6 @@
       items:
         - Bioinformatics
         - Machine Learning
-
     - title: BSc in Pharmacy
       institution: Istanbul Medipol University
       year: 2014-2019
@@ -32,61 +30,40 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Clinical Research Specialist
+    - title: Senior Clinical Research Specialist
       institution: Nobel İlaç
-      year: 2023 - Present
+      year: 2023-Present
       description:
-        - Managing preclinical and clinical activities, ensuring compliance with R&D timelines
-        - Responding to regulatory queries for submissions in over 50 countries
-        - Negotiating contracts with CROs across Europe, USA, and India
-        - Preparing clinical and non-clinical modules for medicinal products
-
+        - Supports preclinical and clinical activities and regulatory submissions in more than 50 countries
+        - Negotiated contracts with more than 15 CROs across Europe, Jordan, and India
+        - Prepared clinical and non-clinical CTD modules for more than 80 medicinal products
+        - Conducted monitoring visits for two clinical trials and 20 bioequivalence studies
+        - Developed clinical workflow automation and a RAG system for regulatory guidelines
     - title: Business Development Executive
       institution: Biocalis
-      year: 2020 - 2023
+      year: 2020-2023
       description:
-        - Managed accounts in EMEA and Central Asia
-        - Conducted market research for in-vitro diagnostics
-        - Generated leads for products during COVID-19 pandemic
-        - Identified market opportunities and coordinated product registrations
-
+        - Managed healthcare accounts across EMEA and Central Asia
+        - Conducted market research and international lead generation
+        - Coordinated product registration and portfolio development
     - title: Retail Pharmacist
       institution: Avaroğlu Pharmacy
-      year: 2019 - 2020
+      year: 2019-2020
       description:
-        - Coordinated medication therapy for patients
-        - Adapted operations during COVID-19 pandemic
+        - Coordinated medication therapy and pharmacy operations
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2022
-      items:
-        - Huawei ICT Talent Award
-    - year: 2024
-      items:
-        - Honor Reward by Turkish Pharmacists Association
-
-- title: Academic Interests
+- title: Expertise
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Regulatory and Compliance
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - ICH-GCP and international regulatory guidelines
+        - Data integrity and GDPR
+    - title: Technical
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Clinical and non-clinical CTD preparation and assessment
+        - Python, R, machine learning, and SQL
+    - title: Professional
+      items:
+        - Cross-functional collaboration
+        - Stakeholder management, delegation, and contract negotiation

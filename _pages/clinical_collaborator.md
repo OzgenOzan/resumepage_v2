@@ -5,4 +5,4 @@ title: Clinical Collaborator
 
 # Clinical Collaborator
 
-This is a placeholder content for the clinical collaborator page.
+{% include clinical_collaborator.md %}
