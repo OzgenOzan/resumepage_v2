@@ -65,22 +65,14 @@
       "startDate": "2019-08",
       "endDate": "2020-06",
       "summary": "Provided patient-focused medication support and contributed to daily pharmacy operations.",
-      "highlights": [
-        "Patient counselling",
-        "Medication therapy management",
-        "Pharmacy operations"
-      ]
+      "highlights": ["Patient counselling", "Medication therapy management", "Pharmacy operations"]
     },
     {
       "name": "University Hospital, Retail Pharmacies, and Pharmaceutical Company",
       "position": "Student Intern",
       "location": "Antalya and Istanbul, Türkiye",
       "summary": "Completed hospital, retail pharmacy, and pharmaceutical industry internships.",
-      "highlights": [
-        "Clinical pharmacy",
-        "Retail pharmacy",
-        "Pharmaceutical marketing"
-      ]
+      "highlights": ["Clinical pharmacy", "Retail pharmacy", "Pharmaceutical marketing"]
     }
   ],
   "volunteer": [
@@ -92,10 +84,7 @@
       "startDate": "2019-10",
       "endDate": "2023-08",
       "summary": "Contributed to projects connecting the UN Sustainable Development Goals with pharmacy practice and volunteered for one week at a field pharmacy in Antakya after the 6 February 2023 earthquakes.",
-      "highlights": [
-        "Sustainable development",
-        "Pharmacy disaster response"
-      ]
+      "highlights": ["Sustainable development", "Pharmacy disaster response"]
     },
     {
       "organization": "Huawei Seeds for the Future",
@@ -105,11 +94,7 @@
       "startDate": "2022-07",
       "endDate": "2023-01",
       "summary": "Led a team of 10 that developed an AI-driven concept to prevent violence against healthcare workers. The team won the Türkiye stage of the competition and participated in the European Talent Summit in Athens.",
-      "highlights": [
-        "Team leadership",
-        "Artificial intelligence",
-        "Healthcare innovation"
-      ]
+      "highlights": ["Team leadership", "Artificial intelligence", "Healthcare innovation"]
     },
     {
       "organization": "Istanbul Chamber of Pharmacists, Youth Assembly",
@@ -119,10 +104,7 @@
       "startDate": "2017-10",
       "endDate": "2019-10",
       "summary": "Represented Istanbul Medipol University for two years and helped organize the first and second Pharmacist Youth Meetings in 2018 and 2019.",
-      "highlights": [
-        "Representation",
-        "Event coordination"
-      ]
+      "highlights": ["Representation", "Event coordination"]
     }
   ],
   "education": [
@@ -145,10 +127,7 @@
       "startDate": "2021",
       "endDate": "2023",
       "score": "4.0/4.0",
-      "courses": [
-        "Bioinformatics",
-        "Machine Learning"
-      ]
+      "courses": ["Bioinformatics", "Machine Learning"]
     },
     {
       "institution": "Akdeniz University",
@@ -354,33 +333,19 @@
       "name": "Regulatory & Compliance",
       "level": "Advanced",
       "icon": "fa-solid fa-shield-halved",
-      "keywords": [
-        "ICH-GCP",
-        "ICH, EMA, and FDA guidelines",
-        "Data integrity",
-        "GDPR"
-      ]
+      "keywords": ["ICH-GCP", "ICH, EMA, and FDA guidelines", "Data integrity", "GDPR"]
     },
     {
       "name": "Technical",
       "level": "Advanced",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Clinical and non-clinical CTD preparation and assessment",
-        "Python and R for machine learning",
-        "SQL"
-      ]
+      "keywords": ["Clinical and non-clinical CTD preparation and assessment", "Python and R for machine learning", "SQL"]
     },
     {
       "name": "Professional",
       "level": "Advanced",
       "icon": "fa-solid fa-people-group",
-      "keywords": [
-        "Cross-functional collaboration",
-        "Stakeholder management",
-        "Effective delegation",
-        "Contract negotiation"
-      ]
+      "keywords": ["Cross-functional collaboration", "Stakeholder management", "Effective delegation", "Contract negotiation"]
     }
   ],
   "languages": [
@@ -399,21 +364,12 @@
     {
       "name": "Advanced Therapeutics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Clinical development",
-        "Technology transfer",
-        "International regulatory guidelines"
-      ]
+      "keywords": ["Clinical development", "Technology transfer", "International regulatory guidelines"]
     },
     {
       "name": "Bioinformatics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Machine learning",
-        "Programming",
-        "Preclinical development",
-        "Drug discovery"
-      ]
+      "keywords": ["Machine learning", "Programming", "Preclinical development", "Drug discovery"]
     }
   ],
   "projects": [
@@ -421,23 +377,14 @@
       "name": "Machine Learning for Anticancer Peptides",
       "url": "/projects/anticancer_peptide_ml/",
       "summary": "Developed a patent-pending machine-learning method to determine anticancer activity in peptides.",
-      "highlights": [
-        "Bioinformatics",
-        "Random forest",
-        "Drug discovery"
-      ],
+      "highlights": ["Bioinformatics", "Random forest", "Drug discovery"],
       "startDate": "2024"
     },
     {
       "name": "Clinical Research Automation and Digitalization",
       "url": "/projects/automation_digitalization/",
       "summary": "Integrated IMP procurement and regulatory requests, built RPA tracking for study timelines and EC/MoH applications, and developed a RAG system for regulatory guidelines.",
-      "highlights": [
-        "RPA",
-        "Clinical trials",
-        "Regulatory compliance",
-        "Retrieval-augmented generation"
-      ],
+      "highlights": ["RPA", "Clinical trials", "Regulatory compliance", "Retrieval-augmented generation"],
       "startDate": "2023"
     }
   ]
