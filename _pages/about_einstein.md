@@ -21,7 +21,7 @@ social: true
 
 Clinical research and business development professional with expertise in bioavailability and bioequivalence studies, clinical trials, regulatory compliance, contracts, and stakeholder management. I also apply data science and programming to healthcare and pharmaceutical research problems.
 
-I currently work as a Senior Clinical Research Specialist at Nobel İlaç, supporting preclinical and clinical activities, regulatory submissions in more than 50 countries, and collaborations with CROs across Europe, Jordan, and India. My recent work also includes clinical workflow automation and a retrieval-augmented generation system for regulatory guidelines.
+I currently work as a Senior Clinical Research Specialist at Nobel İlaç, supporting preclinical and clinical activities, regulatory documentation, and collaboration with CROs and research partners in international settings. My recent work also includes clinical workflow automation and a retrieval-augmented generation system for regulatory guidelines.
 
 I hold an MSc in Medical Biotechnology from Akdeniz University, where I developed machine learning models for predicting the anticancer properties of peptides. I am pursuing a PhD in Gene and Cell Therapy and have completed the coursework period.
 

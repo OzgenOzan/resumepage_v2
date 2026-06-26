@@ -8,11 +8,11 @@ nav_order: 7
 
 ## Clinical Research Collaborations
 
-I collaborate with clinical research organizations (CROs), hospitals, research sites, and pharmaceutical companies across Europe, Jordan, India, and Türkiye. My work includes:
+I collaborate with clinical research organizations (CROs), hospitals, research sites, and pharmaceutical companies in international clinical research settings. My work includes:
 
 - Coordinating BE/BA studies and clinical trials
 - Managing site qualification audits
-- Overseeing regulatory submissions across 50+ countries
+- Supporting regulatory documentation and submission workflows
 - Coordinating pharmacovigilance activities within clinical trials
 
 ## Academic Research Partnerships
