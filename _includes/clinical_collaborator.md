@@ -4,4 +4,4 @@ At Nobel İlaç, I work closely with cross-functional teams, including regulator
 
 Our collaborative approach ensures efficient management of bioequivalence studies and clinical trials, from initial planning through final regulatory submission. We've successfully implemented digital solutions to streamline processes and improve cross-departmental coordination.
 
-Together with my colleagues, I have established partnerships with more than 15 CROs across Europe, Jordan, and India, supporting international clinical studies while maintaining quality standards and regulatory compliance.
+Together with my colleagues, I support partnerships with CROs and research collaborators in international clinical study settings while maintaining quality standards and regulatory compliance.
