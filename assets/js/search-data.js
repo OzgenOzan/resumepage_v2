@@ -10,8 +10,8 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-cv",
-          title: "cv",
-          description: "Clinical Research Professional with expertise in pharmaceutical development and bioequivalence studies.",
+          title: "CV",
+          description: "Senior clinical research professional with expertise in pharmaceutical development, regulatory compliance, and bioequivalence studies.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/resumepage/";
