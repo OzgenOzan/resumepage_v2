@@ -8,12 +8,12 @@ nav_order: 7
 
 ## Clinical Research Collaborations
 
-I collaborate with various clinical research organizations (CROs) and pharmaceutical companies across Europe, USA, and India. My work includes:
+I collaborate with clinical research organizations (CROs), hospitals, research sites, and pharmaceutical companies across Europe, Jordan, India, and Türkiye. My work includes:
 
 - Coordinating BE/BA studies and clinical trials
 - Managing site qualification audits
 - Overseeing regulatory submissions across 50+ countries
-- Developing and implementing pharmacovigilance protocols
+- Coordinating pharmacovigilance activities within clinical trials
 
 ## Academic Research Partnerships
 
@@ -21,7 +21,7 @@ Current research collaborations focus on:
 
 - Machine learning applications in peptide drug discovery
 - Advanced therapeutic development
-- Gene and cell therapy innovations
+- Gene and cell therapy research
 - Bioinformatics and computational biology
 
 ## Partnership Opportunities

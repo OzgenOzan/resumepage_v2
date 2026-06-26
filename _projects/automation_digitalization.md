@@ -15,6 +15,7 @@ At Nobel İlaç, I led the development of digital solutions to streamline clinic
 - Developed an online platform that integrates IMP (Investigational Medicinal Product) procurement with regulatory affairs requests, creating a centralized system for better coordination
 - Built RPA (Robotic Process Automation) software in collaboration with a vendor to track study timelines for clinical trials and bioequivalence studies
 - Implemented automated tracking for Ethics Committee (EC) and Ministry of Health (MoH) applications, reducing manual monitoring effort and providing real-time status updates
+- Developed a retrieval-augmented generation (RAG) system for regulatory guidelines
 - Improved overall process efficiency and reduced administrative burden through strategic automation of repetitive tasks
 - Enhanced data visibility across departments by creating centralized dashboards for clinical study status monitoring
 
@@ -28,3 +29,4 @@ These automation initiatives significantly improved process efficiency, reduced 
 - Web-based platforms for data integration
 - Process workflow optimization
 - Regulatory compliance tracking systems
+- Retrieval-augmented generation (RAG)

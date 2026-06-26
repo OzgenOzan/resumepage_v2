@@ -1,7 +1,7 @@
 ## Academic Research Collaboration
 
-I collaborate with researchers at Akdeniz University on gene and cell therapy projects, focusing on novel therapeutic approaches. Our work explores cutting-edge techniques in genetic engineering and their applications in treating various diseases.
+I collaborate with researchers at Akdeniz University on gene and cell therapy, advanced therapeutics, and computational drug discovery.
 
-We're currently investigating targeted delivery systems for gene therapies and developing innovative approaches for cell-based treatments. This collaboration merges pharmaceutical expertise with advanced molecular biology techniques.
+My academic work combines pharmaceutical expertise with bioinformatics and machine learning. It includes research on antimicrobial peptides with potential anticancer activity and pharmacoeconomic analyses of biosimilars and advanced therapies.
 
-The interdisciplinary nature of our collaboration strengthens both academic research and pharmaceutical development pathways, creating opportunities for translational breakthroughs that can potentially impact patient care.
+This interdisciplinary work connects academic research with practical pharmaceutical development and clinical research experience.

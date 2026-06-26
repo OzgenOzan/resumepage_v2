@@ -19,11 +19,11 @@ selected_papers: true
 social: true
 ---
 
-Experienced clinical research professional with expertise in BE/BA studies, clinical trials, and regulatory compliance. Strong skills in stakeholder management, contract negotiation, and portfolio oversight. Leverages data science and programming to drive innovative solutions in pharmaceutical research.
+Clinical research and business development professional with expertise in bioavailability and bioequivalence studies, clinical trials, regulatory compliance, contracts, and stakeholder management. I also apply data science and programming to healthcare and pharmaceutical research problems.
 
-Currently working as a Clinical Research Specialist at Nobel İlaç, managing preclinical and clinical activities while ensuring strict compliance with R&D timelines and product launches. My work involves overseeing regulatory submissions across 50+ countries and coordinating with CROs across Europe, USA, and India.
+I currently work as a Senior Clinical Research Specialist at Nobel İlaç, supporting preclinical and clinical activities, regulatory submissions in more than 50 countries, and collaborations with CROs across Europe, Jordan, and India. My recent work also includes clinical workflow automation and a retrieval-augmented generation system for regulatory guidelines.
 
-I hold an MSc in Medical Biotechnology from Akdeniz University, where I developed machine learning models for predicting anticancer properties of peptides. Currently pursuing a PhD in Gene and Cell Therapy, focusing on advanced therapeutic applications.
+I hold an MSc in Medical Biotechnology from Akdeniz University, where I developed machine learning models for predicting the anticancer properties of peptides. I am pursuing a PhD in Gene and Cell Therapy and have completed the coursework period.
 
 My research interests include:
 
