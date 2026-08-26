@@ -20,15 +20,15 @@ Deployment is fully automated via GitHub Actions:
 
 ### Where the content lives
 
-| Content | Location |
-|---|---|
-| Homepage / about | `_pages/about.md` |
-| CV page & data | `_pages/cv.md`, `assets/json/resume.json` |
-| Social links | `_data/socials.yml` |
-| Publications | `_bibliography/papers.bib` |
-| Projects | `_projects/` |
-| News | `_news/` |
-| Site settings | `_config.yml` |
+| Content          | Location                                  |
+| ---------------- | ----------------------------------------- |
+| Homepage / about | `_pages/about.md`                         |
+| CV page & data   | `_pages/cv.md`, `assets/json/resume.json` |
+| Social links     | `_data/socials.yml`                       |
+| Publications     | `_bibliography/papers.bib`                |
+| Projects         | `_projects/`                              |
+| News             | `_news/`                                  |
+| Site settings    | `_config.yml`                             |
 
 ### Formatting
 
