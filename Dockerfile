@@ -1,4 +1,4 @@
-FROM ruby:slim
+FROM ruby:3.3-slim
 
 # uncomment these if you are having this issue with the build:
 # /usr/local/bundle/gems/jekyll-4.3.4/lib/jekyll/site.rb:509:in `initialize': Permission denied @ rb_sysopen - /srv/jekyll/.jekyll-cache/.gitignore (Errno::EACCES)
@@ -68,7 +68,7 @@ EXPOSE 8080
 
 COPY bin/entry_point.sh /tmp/entry_point.sh
 
-# uncomment this if you are having this issue with the build:
+# uncomment these if you are having this issue with the build:
 # /usr/local/bundle/gems/jekyll-4.3.4/lib/jekyll/site.rb:509:in `initialize': Permission denied @ rb_sysopen - /srv/jekyll/.jekyll-cache/.gitignore (Errno::EACCES)
 # set the ownership of the jekyll site directory to the non-root user
 # USER $USERNAME
