@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Ümraniye, Istanbul</p>
-    <p>Turkiye, 34764</p>
+    <p>Istanbul, Turkiye</p>
     <p>ozan_ozgen@outlook.com</p>
 
 news: false
