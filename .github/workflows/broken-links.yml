@@ -86,7 +86,7 @@ jobs:
 
       - name: Link Checker
         if: steps.link-files.outputs.has_files == 'true'
-        uses: lycheeverse/lychee-action@v2.1.0
+        uses: lycheeverse/lychee-action@v2.9.0
         with:
           fail: true
           failIfEmpty: false
