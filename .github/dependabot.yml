@@ -1,0 +1,12 @@
+version: 2
+updates:
+  # Keep GitHub Actions versions pinned and up to date
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+  # Keep Ruby (bundler) dependencies up to date
+  - package-ecosystem: "bundler"
+    directory: "/"
+    schedule:
+      interval: "weekly"
